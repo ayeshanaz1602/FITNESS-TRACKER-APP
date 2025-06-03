@@ -69,4 +69,5 @@ Customizable themes and dark mode support
 OUTPUT
 
 
+![image](https://github.com/user-attachments/assets/6ddd5cd3-2d28-4ab4-8799-a15b32278fd2)
 
