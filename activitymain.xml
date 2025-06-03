@@ -1,0 +1,8 @@
+<TextView android:id="@+id/stepsText" android:text="0 Steps" style="@style/TextAppearance.AppCompat.Large" />
+<TextView android:id="@+id/distanceText" android:text="0.00 m" />
+<TextView android:id="@+id/caloriesText" android:text="0 kcal" />
+
+<com.github.mikephil.charting.charts.BarChart
+    android:id="@+id/barChart"
+    android:layout_width="match_parent"
+    android:layout_height="300dp" />
